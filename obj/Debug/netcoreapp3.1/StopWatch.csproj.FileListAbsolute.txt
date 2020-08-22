@@ -1,0 +1,12 @@
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.deps.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.runtimeconfig.dev.json
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/bin/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csprojAssemblyReference.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfoInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.AssemblyInfo.cs
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.csproj.CoreCompileInputs.cache
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.dll
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.pdb
+/Users/marcosdeoliveira/Documents/Learn/NET-CORE-DEVELOPER/StopWatch/obj/Debug/netcoreapp3.1/StopWatch.genruntimeconfig.cache
